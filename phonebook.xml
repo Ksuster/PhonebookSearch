@@ -1,0 +1,17 @@
+<phonebook>
+    <entry>
+        <firstname>Mark</firstname>
+        <surname>Twain</surname>
+        <number>+375 29 1234567</number>
+    </entry>
+    <entry>
+        <firstname>Jo</firstname>
+        <surname>Dirty</surname>
+        <number>+375 29 7891234</number>
+    </entry>
+    <entry>
+        <firstname>Andy</firstname>
+        <surname>Ham</surname>
+        <number>+375 29 5678912</number>
+    </entry>
+</phonebook>
